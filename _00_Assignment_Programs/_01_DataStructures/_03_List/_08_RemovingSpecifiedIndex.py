@@ -15,7 +15,7 @@ print('Updated data is:', data)
 print('______________________')
 
 '''
-removing specified index in a list and print using del function
+removing specified index in a list and print using remove method
 '''
 
 data = ['Python', [1, 2, 3, 5], True, 'john']

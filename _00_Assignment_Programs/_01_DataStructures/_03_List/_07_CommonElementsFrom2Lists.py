@@ -24,7 +24,7 @@ print('____________________')
 
 
 '''
-finding common elements in two Lists comparing length and using range
+finding common elements in two Lists
 '''
 
 data1 = [657, 456, 24, 77, 95, 34]

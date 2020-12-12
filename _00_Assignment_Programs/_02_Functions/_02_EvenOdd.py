@@ -13,8 +13,9 @@ def evod(num):
     for each in range(1, num):
         if each % 2 == 0:
             print(each, end=',')
-    else:
-        print(each)
+
+        elif each % 2 == 1:
+            print(each)
 
 
 evod(int(input('enter the range: ')))
